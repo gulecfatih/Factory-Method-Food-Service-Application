@@ -1,0 +1,7 @@
+C:\Users\ilkay\source\repos\Factory Method-Food Service Application\Factory Method-Food Service Application\bin\Debug\Factory Method-Food Service Application.exe.config
+C:\Users\ilkay\source\repos\Factory Method-Food Service Application\Factory Method-Food Service Application\bin\Debug\Factory Method-Food Service Application.exe
+C:\Users\ilkay\source\repos\Factory Method-Food Service Application\Factory Method-Food Service Application\bin\Debug\Factory Method-Food Service Application.pdb
+C:\Users\ilkay\source\repos\Factory Method-Food Service Application\Factory Method-Food Service Application\obj\Debug\Factory Method-Food Service Application.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\Factory Method-Food Service Application\Factory Method-Food Service Application\obj\Debug\Factory Method-Food Service Application.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\Factory Method-Food Service Application\Factory Method-Food Service Application\obj\Debug\Factory Method-Food Service Application.exe
+C:\Users\ilkay\source\repos\Factory Method-Food Service Application\Factory Method-Food Service Application\obj\Debug\Factory Method-Food Service Application.pdb
